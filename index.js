@@ -15,5 +15,5 @@ console.log ("hello")
 }
 
 function sayHiToGrandma(string){
-  return .toLowerCase("I can\'t hear you!")
+  return().toLowerCase("I can\'t hear you!")
 }
