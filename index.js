@@ -18,6 +18,3 @@ function sayHiToGrandma(string){
   return "i can't hear you!".toLowerCase("i can't hear you!")
 }
 
-var mixedCase = "I can't hear you!"
-
-mixedCase.toLowerCase("I can't hear you!") === mixedCase
